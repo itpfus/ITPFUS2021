@@ -1,2 +1,3 @@
 Welcome to the ITPFUS Github Training class
-===========================================
+Welcome to GitHub training sessions
+

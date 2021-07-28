@@ -1,2 +1,5 @@
 Welcome to the ITPFUS Github Training class
 ===========================================
+We are learning DevOps Tools
+The First Tool we are going over is GitHub
+
