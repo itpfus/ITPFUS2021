@@ -12,7 +12,3 @@ Developer 1 spent alreday 2 days and added new files modified some files
 
 On July 20th Client reported a critical bug in July release in the functionality developed by Developer1
 
-We are going to use Git stash
-1. Stash will keep your uncommittd changes from Local Repo into a Temproary are with in your local repo and makes your branch clean
-Developer 1 starts working on task2 and complete steh task2
-Then Resumes the task1 by merging the changes that he stashed
